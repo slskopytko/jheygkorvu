@@ -1,4 +1,4 @@
-- pipeline: dppuslrhyb
+- pipeline: Dppuslrhyb
   refs:
   - refs/heads/master
   on: CLICK
